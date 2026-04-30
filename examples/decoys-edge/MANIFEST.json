@@ -1,0 +1,104 @@
+[
+  {
+    "provider": "aws",
+    "filename": "aws_credentials_1.txt",
+    "token_sha256": "6adeb1d30c42678f9c024b6c5e6a0d6893783e4b88cd973052c0c51d7af9dc31",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.255486+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true,
+    "secret_sha256": "804a524e2fa4f30ffc9f1d4a0b24fc7e041551daa31c87e2b60c2fc006cb0586"
+  },
+  {
+    "provider": "aws",
+    "filename": "aws_credentials_2.txt",
+    "token_sha256": "df6af933a8b0778444adc10410b7ad712238a5840f2affe1ba537a958c5ad38b",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.255782+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true,
+    "secret_sha256": "fdf6c971300fbc8f5c86b026b75154aa6ec173d66062e74b138393787454d469"
+  },
+  {
+    "provider": "github",
+    "filename": "github_pat_1.txt",
+    "token_sha256": "b6f09bc3507cfce54ed589583d7a4f466332e3703afa663d34bdb287b0714186",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.255938+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  },
+  {
+    "provider": "github",
+    "filename": "github_pat_2.txt",
+    "token_sha256": "51658ad11350aeab44fe0c030710f86841b45d955a1c89774c56c24300123b5e",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.256111+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  },
+  {
+    "provider": "stripe",
+    "filename": "stripe_sk_1.txt",
+    "token_sha256": "f56fbfeb94471a50d553f9cca13c9187873d162059e26adb2dda86ff1a200afd",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.256255+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  },
+  {
+    "provider": "stripe",
+    "filename": "stripe_sk_2.txt",
+    "token_sha256": "358d22990c39f826fb0e2ccb38dca589335bd6bd29951ccb5c881c2f011485a0",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.256384+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  },
+  {
+    "provider": "slack",
+    "filename": "slack_xoxb_1.txt",
+    "token_sha256": "d037e1c354fa94417db046ab2b286821dfb0a8ae343a6f25bee0c0c51b8853b8",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.256571+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  },
+  {
+    "provider": "slack",
+    "filename": "slack_xoxb_2.txt",
+    "token_sha256": "7c3e3d2eb5f3a4f0908d348c1ce5fa328ca7406245a232dbf552e560625eef9e",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.256733+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  },
+  {
+    "provider": "npm",
+    "filename": "npm_token_1.txt",
+    "token_sha256": "588a6d8a46b54cc1ab956ed62e6e040e602b287cedf1dc18e8310bf7c27491da",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.256887+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  },
+  {
+    "provider": "npm",
+    "filename": "npm_token_2.txt",
+    "token_sha256": "8775b3926c3edfa043c9030f5fe9b9a7858ac0d8a5ab2ea3f33eb2e24ca3c417",
+    "label": "edge-test",
+    "generated_at": "2026-04-30T20:20:13.257041+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  }
+]

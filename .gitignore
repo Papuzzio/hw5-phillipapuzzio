@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.egg-info/
+
+# Raw honeytokens — GitHub Push Protection (correctly!) flags these as real
+# secrets because they pass real-scanner validation. We commit MANIFEST.json
+# for audit trail, but never the raw token files.
+examples/**/*.txt
+!examples/**/MANIFEST.json

@@ -1,0 +1,33 @@
+[
+  {
+    "provider": "aws",
+    "filename": "aws_credentials_1.txt",
+    "token_sha256": "035e716f7a3a31199c2e21095925e3329f572ff10188f6b520d7a7db0f6c4cc0",
+    "label": "demo-week5",
+    "generated_at": "2026-04-30T20:15:18.632064+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true,
+    "secret_sha256": "002e138d87f5fb7e4f96e84bf1b8c31fffd413d5c5e9937a41556d0fd6e33ca2"
+  },
+  {
+    "provider": "github",
+    "filename": "github_pat_1.txt",
+    "token_sha256": "a34c65f86ae4cf9a7c8b353b1b662ad783e4426559034958e20739a9ce529b96",
+    "label": "demo-week5",
+    "generated_at": "2026-04-30T20:15:18.632248+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  },
+  {
+    "provider": "stripe",
+    "filename": "stripe_sk_1.txt",
+    "token_sha256": "8358b33ef2bf3f19914d3fbcd71003d7f4bcd1db5f682d5eeb08cff4e97822dc",
+    "label": "demo-week5",
+    "generated_at": "2026-04-30T20:15:18.632388+00:00",
+    "decoy_only": true,
+    "validator_passed": true,
+    "banner_included": true
+  }
+]

@@ -7,6 +7,16 @@
 
 ---
 
+## Walkthrough video
+
+A short demo of the skill being invoked from natural language and producing token files:
+
+[![honeytoken-forger walkthrough video](https://img.youtube.com/vi/nJIKK0lLxBY/hqdefault.jpg)](https://youtu.be/nJIKK0lLxBY)
+
+▶️ [Watch on YouTube](https://youtu.be/nJIKK0lLxBY)
+
+---
+
 ## What this skill does
 
 `honeytoken-forger` is a Claude Code skill that generates **format-correct decoy credentials** for five major providers. The generated tokens are deliberately fake — they grant zero access to anything — but they are structurally indistinguishable from real credentials and will be flagged as live findings by every modern secret scanner (TruffleHog, Gitleaks, GitHub's first-party scanner, AWS CloudTrail-based canary detectors).
